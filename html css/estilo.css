@@ -1,9 +1,9 @@
-#titulo{
-    color: green;
+.exemplo{
+    border: 1px solid black;
+    padding:10px;
+    margin:0px;
+    padding-left:5px;
 }
-h1{
-    color:red;
-}
-.texto{
-    color: brown;
+body{
+    margin:0px;
 }
