@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *{
     box-sizing: content-box;
 }
@@ -22,4 +23,13 @@ body{
 }
 .link:visited{
     color:pink;
+=======
+.exemplo{
+   background-color: #000000;
+   width:500%;
+   height:500px;
+}
+img{
+    width:auto;
+>>>>>>> 60622b3db14399810d3b2c4d1b81f57f09c22b91
 }
